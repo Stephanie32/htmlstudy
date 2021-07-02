@@ -1,0 +1,15 @@
+===============================================
+Date: 2021/07/02	svn001
+Version:
+Author: Stephanie
+
+1. Add calculator.html: 網路下載參考計算機
+2. Add 計算機.html: 自己練習，沒有CSS的計算機
+3. Add 計算機2.html: 自己練習，有CSS的計算機
+
+===============================================
+Date: 2021/07/02	svn000
+Version:
+Author: Stephanie
+
+1. Create the blank Repository
